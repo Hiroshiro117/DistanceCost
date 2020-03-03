@@ -1,0 +1,41 @@
+// curCuontent.txt
+// Simple Output file 
+
+
+----------- Show vertexs before removed -----------
+
+sf , A , B , C , D , E , F , bbk , la , nyc , sd , zoo,
+
+----------- Remove vertex -----------
+zoo is removed
+
+----------- Show vertexs after removed -----------
+
+sf , A , B , C , D , E , F , bbk , la , nyc , sd ,
+
+----------- Total vertexs -----------
+Total vertexs are : 11
+
+----------- Vertexs with Self_Edge -----------
+
+Self edges vertex : C
+Self edges vertex : la
+
+----------- Total Edges -----------
+
+Total edges are : 15
+
+----------- No inbound edges -----------
+
+
+sf is Zero inbound
+
+
+----------- No Out bound edges -----------
+
+nyc is Zero outbound
+
+
+----------- HeaviestWeight -----------
+
+The Heaviest weight la to bbk is : 19
