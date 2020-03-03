@@ -1,10 +1,9 @@
 /*
 
 Aung Lin Htet
-CS-310
-Lab Program 3 
 
-In this program I used < main.cpp , graph.h , graph.cpp > and < curCuontent.txt > 
+Object : To calculate the distance of different positions
+In this program I used < main.cpp , graph.h , graph.cpp > and < curCuontent.txt > is input csv file
 
 */
 
